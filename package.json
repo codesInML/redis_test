@@ -1,0 +1,17 @@
+{
+  "name": "node_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test1.js",
+  "scripts": {
+    "start": "nodemon test1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "nodemon": "^2.0.15",
+    "redis": "^3.1.2"
+  }
+}
